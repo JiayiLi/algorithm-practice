@@ -19,3 +19,5 @@
 15.cpp  Tomorrow never knows？ </br>
 16.cpp  细菌实验分组 </br>
 17.cpp  流感传染 </br>
+18.cpp  单词翻转 </br>
+19.cpp  角谷猜想 </br>
