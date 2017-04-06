@@ -16,7 +16,7 @@
 12.cpp  寻找下标 </br>
 13.cpp  四大湖 </br>
 14.cpp  发票统计 </br>
-15.cpp  Tomorrow never knows？ </br>
+15.cpp  Tomorrow never knows </br>
 16.cpp  细菌实验分组 </br>
 17.cpp  流感传染 </br>
 18.cpp  单词翻转 </br>
@@ -31,4 +31,6 @@
 27.cpp  字符串中次数第2多的字母 </br>
 28.cpp  运算符判定 </br>
 29.cpp  寻找平面上的极大点 </br>
+30.cpp  走出迷宫   *</br>
+31.cpp  删除重复元素保留1个 </br>
 
